@@ -213,5 +213,14 @@
       "Answer for In February, who joined the Tuesday duty roster? is empty."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "view-commits",
+    "started_at": 1786984059.839186,
+    "completed_at": 1786984061.859442,
+    "comments": [
+      "Great work in viewing and understanding the diff of a specific commit!"
+    ],
+    "status": "Completed"
   }
 ]
