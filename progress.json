@@ -204,5 +204,14 @@
       "Great work fetching and pulling different upstreams!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "view-commits",
+    "started_at": 1786983972.922305,
+    "completed_at": 1786983976.265547,
+    "comments": [
+      "Answer for In February, who joined the Tuesday duty roster? is empty."
+    ],
+    "status": "Incomplete"
   }
 ]
